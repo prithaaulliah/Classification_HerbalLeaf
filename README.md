@@ -4,6 +4,8 @@ Deskripsi Dataset
 
 -Daun Belimbing wuluh
 -Daun Jambu Biji
+
+
 Teknik Deep Learning yang digunakan
 Model dengan menggunakan algoritma CNN (Convolutional Neural Network)
 Model dengan menggunakan algoritma InceptionV3 model dilatih dengan menggunakan google colabolatory.
