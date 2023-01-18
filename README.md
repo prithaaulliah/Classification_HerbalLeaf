@@ -9,9 +9,7 @@ Pritha Aulliah 202010370311426
 
 Deskripsi Dataset
 
--Daun Belimbing wuluh
--Daun Jambu Biji
-
+https://data.mendeley.com/datasets/s82j8dh4rr
 
 Teknik Deep Learning yang digunakan
 
